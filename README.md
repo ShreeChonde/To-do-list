@@ -1,4 +1,5 @@
 # To-do-list
 
-user can add to do list <br>
-user can delete completed 
+user can add task <br>
+user can delete completed task 
+
